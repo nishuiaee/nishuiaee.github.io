@@ -1,0 +1,106 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* 
+
+	Template Name : Instance Multipurpose HTML5 Template
+	Author : Rainbow Design
+	Author URL : http://rainbowdesign.in/
+	
+*/
+
+/* Medium Devices, Desktops */
+@media (max-width: 991px) {
+.header-call {
+	font-size: 15px;
+}
+.header-lover .navbar .nav-item .nav-link {
+	padding: 21px 8px;
+	font-size: 12px;
+}
+.nav-btn a span {
+	padding: 10px 8px;
+}
+}
+/* Small Devices, Tablets */
+@media (max-width: 767px) {
+.header-lover {
+	padding: 10px 0px;
+}
+.header-lover .navbar-nav {
+	border-top: 1px solid rgba(0,0,0,0.1);
+	margin-top: 6px;
+}
+.header-lover .navbar .nav-item .nav-link {
+	padding: 14px 0px;
+}
+.header-call {
+	text-align: center;
+	margin-bottom: 10px;
+}
+.header-address {
+	text-align: center;
+}
+.slider .carousel-caption h2 {
+	font-size: 28px;
+	line-height: 26px;
+}
+.slider .carousel-indicators {
+	margin-bottom: 0;
+}
+.slider .carousel-indicators {
+	display: none;
+}
+.pricing-plan-box {
+	padding: 15px;
+}
+.comment ul li.media-inner {
+	margin-left: 40px;
+}
+.team-box {
+	padding: 20px;
+}
+.team-box h4 {
+	font-size: 16px;
+}
+}
+
+/* Extra Small Devices, Phones */
+@media (max-width: 575px) {
+.sticky .header-space {
+	display: none !important;
+}
+.sticky .header-lover {
+	position: relative !important;
+}
+.sticky .header-upper-bar {
+	display: inline-block !important;
+}
+.header-address li + li {
+	margin-left: 0px;
+	padding-left: 0px;
+	margin-top: 10px;
+	border-left: 0;
+}
+.slider .carousel-caption p {
+	display: none;
+}
+.slider .carousel-caption h2 {
+	font-size: 18px;
+}
+.inner-heading {
+	padding: 100px 0px;
+}
+.inner-heading h1 {
+	font-size: 30px;
+}
+.inner-heading .h1-bg {
+	font-size: 40px;
+}
+.comment ul li.media-inner {
+	margin-left: 0px;
+}
+.faq-box .card .card-header i {
+	right: 10px;
+}
+}
